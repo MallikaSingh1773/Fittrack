@@ -1,7 +1,7 @@
 # FitTrack
 
 ## Overview
-**FitTrack** is a fitness tracking web application built using the **MERN (MongoDB, Express, React, Node.js) Stack**. It helps users monitor their fitness journey by tracking workouts, diet, and progress over time.
+**FitTrack** is a fitness tracking website built using the **MERN (MongoDB, Express, React, Node.js) Stack**. It helps users monitor their fitness journey by tracking workouts, diet, and progress over time.
 
 ## Tech Stack
 - **Frontend:** React.js
