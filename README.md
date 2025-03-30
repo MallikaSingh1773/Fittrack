@@ -7,8 +7,8 @@
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **State Management:** Context API / Redux (if used)
-- **Authentication:** JWT (if implemented)
+- **State Management:** Context API / Redux
+- **Authentication:** JWT
 
 ## Features
 - User Authentication (Signup/Login)
